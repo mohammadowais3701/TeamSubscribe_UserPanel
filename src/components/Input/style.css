@@ -1,0 +1,11 @@
+input{
+    border: none !important;
+    outline: none !important;
+    border-bottom: 1px solid rgb(207, 203, 203) !important;
+    box-shadow: none !important;
+    border-radius: 0px !important;
+    padding-left: 0px !important;
+}
+.ant-modal-title{
+    font-size: 24px !important;
+}
